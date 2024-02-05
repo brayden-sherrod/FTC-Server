@@ -17,7 +17,7 @@ from email import encoders
 
 import smtplib
 user = "brayden.msherrod@gmail.com"
-password = "ligutrfwqtiuvbsa"
+password = "---------"
 
 svdir = '/Users/braydensherrod/Desktop'
 
